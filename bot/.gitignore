@@ -1,0 +1,6 @@
+.env
+session.txt
+channels.json
+__pycache__/
+*.pyc
+*.pyo
